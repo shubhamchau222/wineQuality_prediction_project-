@@ -43,6 +43,26 @@ first commit
 update Readme.md
 ''' bash
 git add . && git commit -m "update Readme.md"
+'''
+
+create new  fresh repository on github 
+and then 
+…or push an existing repository from the command line
+''' bash
+git remote add origin https://github.com/shubhamchau222/ wineQuality_prediction_project-.git
+'''
+
+call the main branch 
+''' bash
+git branch -M main
+'''
+
+push entire code to the origin / main branch
+'''bash 
+git push -u origin main
+'''
+
+
 
 
 
