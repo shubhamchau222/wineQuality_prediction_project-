@@ -35,10 +35,14 @@ tracking our given data
 ''' bash
  git add .
  '''
+first commit
 ''' bash
  git commit -m "first commit"
  '''
- 
+
+update Readme.md
+''' bash
+git add . && git commit -m "update Readme.md"
 
 
 
